@@ -1,0 +1,9 @@
+{
+  "tool": "image_gen__imagegen",
+  "transparent_background": true,
+  "prompt": "Use case: illustration-story. Asset type: a single decorative transparent Sagai / ring ceremony illustration for an elegant Indian wedding invitation. Create a NEW scene clearly different from the old standing ring-exchange reference: an elegant adult Indian bride and groom seated gracefully facing one another on small carved ivory-and-antique-gold engagement seats, the groom carefully placing a delicate gold ring on the bride's naturally extended hand. Coherent delicate adult hands and fingers, joyous gentle adult expressions. Bride wears a blush pink embroidered lehenga with ivory-pink dupatta and refined gold jewelry; groom wears an ivory-and-gold embroidered sherwani with neatly styled dark hair. Place them beneath a restrained light ivory floral arch, pink and cream roses with sage leaves; a few rose petals and small brass decorative accents at the base. Match the refined softly painted romantic dimensional style and delicate detailed rendering of the Pheras style reference, with warm morning/daytime light and ivory, blush, sage and antique gold palette. Portrait approximately 4:5, whole seated figures, seats, arch and floral base visible, centered with elegant comfortable margins, legible at about 300px wide. Genuine transparent alpha background around and between arch, figures, flowers and seats, clean soft outer edges. NO opaque pink rectangle, NO square sky, NO environmental backdrop. No lettering, text, logos, or watermarks. This is decorative invitation artwork, not actual people or an actual venue. Use the old Sagai image only as clothing/color reference, not its standing pose, solid backdrop or composition.",
+  "references": [
+    "art-pheras-ceremony-final.webp",
+    "art3_sagai.webp"
+  ]
+}

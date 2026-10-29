@@ -1,0 +1,33 @@
+{
+  "id": "./",
+  "name": "महिमा एवं शिवम — विवाह आमंत्रण",
+  "short_name": "महिमा एवं शिवम",
+  "description": "शर्मा परिवार की सुपुत्री महिमा एवं शिवम का शुभ विवाह।",
+  "lang": "hi-IN",
+  "start_url": "./?source=homescreen",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fbf1e0",
+  "theme_color": "#e6f4f3",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
