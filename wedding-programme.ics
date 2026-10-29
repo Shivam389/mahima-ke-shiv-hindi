@@ -8,7 +8,7 @@ X-WR-CALNAME:महिमा एवं शिवम - मांगलिक
 X-WR-TIMEZONE:Asia/Kolkata
 BEGIN:VEVENT
 UID:85db50a5-4e78-5755-b597-310eddd1ab24
-DTSTAMP:20261029T212547Z
+DTSTAMP:20261029T213548Z
 DTSTART:20261119T093000Z
 SUMMARY:श्री गणेश पूजन एवं रात्रि
   जागरण - महिमा एवं शिवम
@@ -35,7 +35,7 @@ URL:https://www.google.com/maps/place/Mishra+Tutorials/@22.6697677,75.82375
 END:VEVENT
 BEGIN:VEVENT
 UID:d2d18ea8-708a-5d5b-bcd9-8fe2167b7fad
-DTSTAMP:20261029T212547Z
+DTSTAMP:20261029T213548Z
 DTSTART:20261120T030000Z
 SUMMARY:माता पूजन - महिमा एवं शिवम
 DESCRIPTION:शर्मा परिवार अपनी सुपुत
@@ -60,7 +60,7 @@ URL:https://www.google.com/maps/place/Mishra+Tutorials/@22.6697677,75.82375
 END:VEVENT
 BEGIN:VEVENT
 UID:401b9f3e-cfbb-5eea-b461-5df5c21672cc
-DTSTAMP:20261029T212547Z
+DTSTAMP:20261029T213548Z
 DTSTART:20261120T050000Z
 SUMMARY:मंडप - महिमा एवं शिवम
 DESCRIPTION:शर्मा परिवार अपनी सुपुत
@@ -86,7 +86,7 @@ URL:https://www.google.com/maps/place/Mishra+Tutorials/@22.6697677,75.82375
 END:VEVENT
 BEGIN:VEVENT
 UID:dfcb8d50-c34d-5438-a230-195f812d5efe
-DTSTAMP:20261029T212547Z
+DTSTAMP:20261029T213548Z
 DTSTART:20261120T133000Z
 SUMMARY:महिला संगीत - महिमा एवं शि
  वम
@@ -112,7 +112,7 @@ URL:https://www.google.com/maps/place/Mishra+Tutorials/@22.6697677,75.82375
 END:VEVENT
 BEGIN:VEVENT
 UID:ba1b4aed-9431-5e09-8d5a-3eff3ad75afa
-DTSTAMP:20261029T212547Z
+DTSTAMP:20261029T213548Z
 DTSTART:20261121T050000Z
 SUMMARY:सगाई - महिमा एवं शिवम
 DESCRIPTION:शर्मा परिवार अपनी सुपुत
@@ -133,7 +133,7 @@ URL:https://maps.app.goo.gl/15R5EYXrpbmKtAaZ7
 END:VEVENT
 BEGIN:VEVENT
 UID:90a57562-ccec-55c9-b98a-911c7e150987
-DTSTAMP:20261029T212547Z
+DTSTAMP:20261029T213548Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:शुभ लग्न - महिमा एवं शिवम
@@ -154,7 +154,7 @@ URL:https://maps.app.goo.gl/15R5EYXrpbmKtAaZ7
 END:VEVENT
 BEGIN:VEVENT
 UID:3eb5b3cc-60f1-577b-9330-4215143523f8
-DTSTAMP:20261029T212547Z
+DTSTAMP:20261029T213548Z
 DTSTART:20261121T123000Z
 SUMMARY:आशीर्वाद समारोह एवं प्री
  तिभोज - महिमा एवं शिवम
@@ -169,26 +169,6 @@ DESCRIPTION:शर्मा परिवार अपनी सुपुत
  रात ब्यावर से 21 नवम्बर 2026 की प
  ्रातः पधारेगी।\nhttps://maps.app.goo.gl/15R5EYXr
  pbmKtAaZ7
-LOCATION:कान्हा श्री रिसॉर्ट\, कैट 
- रोड\, राजेन्द्र नगर\, इन्दौर (
- म.प्र.)
-URL:https://maps.app.goo.gl/15R5EYXrpbmKtAaZ7
-END:VEVENT
-BEGIN:VEVENT
-UID:78705e76-cea1-5669-a30c-076f27786e81
-DTSTAMP:20261029T212547Z
-DTSTART:20261121T143000Z
-SUMMARY:फेरे - महिमा एवं शिवम
-DESCRIPTION:शर्मा परिवार अपनी सुपुत
- ्री महिमा एवं शिवम के शुभ वि
- वाह में आपको सपरिवार सादर आम
- ंत्रित करता है।\nसात फेरे\, सा
- त वचन। महिमा और शिवम के नवजी
- वन को अपना आशीर्वाद दें।\nशन
- िवार\, 21 नवम्बर 2026\, रात्रि 8:00 बज
- े (भारतीय समय)\nबारात ब्यावर स
- े 21 नवम्बर 2026 की प्रातः पधारे
- गी।\nhttps://maps.app.goo.gl/15R5EYXrpbmKtAaZ7
 LOCATION:कान्हा श्री रिसॉर्ट\, कैट 
  रोड\, राजेन्द्र नगर\, इन्दौर (
  म.प्र.)
